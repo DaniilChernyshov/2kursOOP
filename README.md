@@ -17,3 +17,4 @@ Features:
 + Possibility to add a connection between books and characters by ID into a separate txt file.
 + Possibility to load each file and find needed info about saved books and characters (by ID).
 + Possibility to edit info about saved books and characters.
++ Possibility to delete any saved book or character.
