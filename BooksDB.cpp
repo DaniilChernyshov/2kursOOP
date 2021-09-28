@@ -298,10 +298,33 @@ int main() {
             break;
         }
         case 4: {
-            //
-            //
+            cout << " Which data would you like to edit?" << endl;
+            cout << " (1) Books mentioned in (2) Role" << endl;
+            cout << "Option: "; cin >> option;
+
+            switch (option) {
+            case 1: {
+                int id;
+                cout << "  Character ID:"; cin >> id;
+                int pos = char_base.search(id);
+                if (pos != -1)
+                    char_base.data[pos].readBooksMentionedIn();
+                else
+                    cout << "No character with such ID was found." << endl;
+            }
+            case 2: {
+                int id;
+                cout << "  Character ID:"; cin >> id;
+                int pos = char_base.search(id);
+                if (pos != -1)
+                    char_base.data[pos].readRole();
+                else
+                    cout << "No character with such ID was found." << endl;
+            }
+
+            }
+            break;
         }
-              break;
         case 5: {
             int id;
             cout << "  Book ID: "; cin >> id;
