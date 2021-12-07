@@ -35,5 +35,5 @@ Additional possibilities:
 
 
 ПРОЕКТ
-A simple snake game made by using QT + C++
+A simple snake game made by using C++ + QT
 
