@@ -20,7 +20,11 @@ Features:
 + Possibility to delete any saved book or character.
 
 Лабораторна робота N1 
+
+
 Timer made using QT Creator.
+
+
 Additional possibilities:
 1) Shows timer that will work first
 2) Program remembers all the timers even after closing it or restarting your PC
