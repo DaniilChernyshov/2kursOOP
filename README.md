@@ -33,3 +33,7 @@ Additional possibilities:
 5) Sorted by remaining time
 6) Differrent timer formats 
 
+
+ПРОЕКТ
+A simple snake game made by using QT + C++
+
