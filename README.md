@@ -19,7 +19,7 @@ Features:
 + Possibility to edit info about saved books and characters.
 + Possibility to delete any saved book or character.
 
-Лабораторна робота N1 
+Лабораторна робота N2 
 
 
 Timer made using QT Creator.
